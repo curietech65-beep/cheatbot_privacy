@@ -1,4 +1,4 @@
-# cheatbot privacy policy
+# Cheatbot Privacy Policy
 Cheatbot 3000 Android App Privacy Policy
 
 # Privacy Policy for Cheatbot 3000
