@@ -3,7 +3,7 @@ Cheatbot 3000 Android App Privacy Policy
 
 # Privacy Policy for Cheatbot 3000
 
-**Last updated:** October 24, 2023 / Present
+**Last updated:** October 11, 2026 / Present
 
 This Privacy Policy describes how **Cheatbot 3000** ("we", "our", or "us") collects, uses, and shares information when you use our mobile application (the "App").
 
